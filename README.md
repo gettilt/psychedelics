@@ -5,6 +5,7 @@ with open('config.json') as file:
   config = json.load(file)
   cog.outl(f"# {config['name'].title()}")
 ]]]-->
+# Psychedelics
 <!--//[[[end]]]-->
 
 ## Mission
@@ -20,6 +21,7 @@ with open('config.json') as file:
   config = json.load(file)
   cog.outl(config['prompt'])
 ]]]-->
+Psychedelics are the new way to treat mental illness. Companies experimenting with and producing Psychedelics are poised to win in the fight against mental illness.
 <!--[[[end]]]-->
 
 ## Theme Stocks
@@ -51,6 +53,23 @@ with open('theme.csv') as file:
     context_str = _get_context_str_for_ticker(row[0])
     cog.outl(f"| {row[0]} | {context_str} | {row[1]} |")
 ]]]-->
+| Ticker  | Context | Source |
+| ------- | ---- | ---- |
+| ABT | Abbott Laboratories, with its diagnostics and neurological drug development, could see indirect benefits from advancements in psychedelic therapies. | chat_gpt |
+| ATAI | ATAI Life Sciences is a biotech company investing in psychedelic treatments for mental health disorders. | chat_gpt,claude,twitter,google |
+| CMPS | Compass Pathways is at the forefront of psychedelic research, focusing on psilocybin therapy for depression. | chat_gpt,claude,twitter,google |
+| CYBN | Cybin Inc. is working on psychedelic therapies for mental health, showing promise in early trials. | chat_gpt,claude,twitter,google |
+| GHRS | GH Research is developing a novel therapeutic approach using 5-MeO-DMT for treatment-resistant depression. | chat_gpt,twitter |
+| JNJ | Johnson & Johnson's subsidiary Janssen Pharmaceuticals developed Spravato, a ketamine-based treatment for depression, indicating indirect benefits from the psychedelic trend. | chat_gpt |
+| LLY | Eli Lilly, known for psychiatric drugs, might explore psychedelic-based treatments, benefiting indirectly from the trend. | chat_gpt |
+| MNMD | Mind Medicine is researching various psychedelic substances for treatment of mental illness, making it a direct beneficiary. | chat_gpt,claude,twitter,google |
+| MRK | Merck has a history of innovation in mental health treatments and could potentially enter the psychedelic space. | chat_gpt |
+| PFE | Pfizer, with its extensive research in mental health medication, could pivot to or benefit from psychedelic research indirectly. | chat_gpt |
+| ACB |  | twitter |
+| CGC |  | twitter |
+| CRON |  | twitter |
+| RLMD |  | twitter |
+| TLRY |  | twitter |
 <!--[[[end]]]-->
 
 ## License
@@ -74,6 +93,9 @@ with open('config.json') as file:
   cog.outl(f'  <img src="https://contrib.rocks/image?repo=gettilt/{repo}" />')
   cog.outl('</a>')
 ]]]-->
+<a href="https://github.com/gettilt/psychedelics/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=gettilt/psychedelics" />
+</a>
 <!--[[[end]]]-->
 
 ## Join Our Community
