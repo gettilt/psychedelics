@@ -87,49 +87,6 @@
         ],
         "experts": []
     },
-    "CYBN": {
-        "chat_gpt": "Cybin Inc. is working on psychedelic therapies for mental health, showing promise in early trials.",
-        "claude": null,
-        "search_articles": [
-            {
-                "url": "https://www.fool.com/investing/stock-market/market-sectors/healthcare/psychedelic-stocks/",
-                "title": "6 Psychedelic Stocks to Consider in 2024",
-                "youtube_embed_url": null
-            },
-            {
-                "url": "https://thedalesreport.com/psychedelics/",
-                "title": "Top Psychedelic Stocks: Investing News, Legislation & ...",
-                "youtube_embed_url": null
-            }
-        ],
-        "tweets": [
-            {
-                "url": "https://twitter.com/ChartGuys/status/1765796273523720351",
-                "text": "There is a reason I dedicated half of the Cannabis video over the weekend to Psychedelics! \n$MNMD $CMPS $ATAI $CYBN https://t.co/GVslIHP0SS",
-                "username": "ChartGuys",
-                "user_url": "https://twitter.com/ChartGuys",
-                "user_image_url": "https://pbs.twimg.com/profile_images/1641211552899399681/aYzkeBL__normal.jpg",
-                "date": "2024-03-07T17:46:53Z"
-            },
-            {
-                "url": "https://twitter.com/TheDalesReport/status/1750610968269177016",
-                "text": "Join @CybinInc's CEO, Doug Drysdale for an exclusive episode. $CYBN\nThe premiere starts at 4pm ET https://t.co/ULALqN6ZYh\n\ud83c\udf0cWhy This Quarter Could Be Vital for Cybin's FDA Milestones!\n\ud83e\udde0 FDA clearance for CYB004's Phase 2a study in Generalized Anxiety Disorder. \n\ud83d\udc8a CYB003's impact on MADRS scores and market innovation. Phase 1 insights into CYB004 and SPL028 for safer mental health treatments. \n\ud83d\udca1 Industry shifts, legislative changes, and FDA's role in psychedelic therapies.\n#CybinInnovation #MentalHealthFuture",
-                "username": "TheDalesReport",
-                "user_url": "https://twitter.com/TheDalesReport",
-                "user_image_url": "https://pbs.twimg.com/profile_images/1258353336283287554/i0vpemvz_normal.jpg",
-                "date": "2024-01-25T20:05:54Z"
-            },
-            {
-                "url": "https://twitter.com/PsychedStocks/status/1750890472917106937",
-                "text": "$CYBN $GHRS $TSLA $CMPS $ATAI $MNMD $TPST $PSYK $PSIL $IXHL $PFE \n\nGreat interview. Cybin CEO Doug Drysdale says it\u2019s now impossible to deny psychedelics are an effective treatment for mental health disorders such as MDD, and these treatments will get approval!",
-                "username": "PsychedStocks",
-                "user_url": "https://twitter.com/PsychedStocks",
-                "user_image_url": "https://pbs.twimg.com/profile_images/1456314906307964931/omJwYmdn_normal.jpg",
-                "date": "2024-01-26T14:36:33Z"
-            }
-        ],
-        "experts": []
-    },
     "GHRS": {
         "chat_gpt": "GH Research is developing a novel therapeutic approach using 5-MeO-DMT for treatment-resistant depression.",
         "claude": null,
