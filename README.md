@@ -58,7 +58,6 @@ with open('theme.csv') as file:
 | ABT | Abbott Laboratories, with its diagnostics and neurological drug development, could see indirect benefits from advancements in psychedelic therapies. | chat_gpt |
 | ATAI | ATAI Life Sciences is a biotech company investing in psychedelic treatments for mental health disorders. | chat_gpt,claude,twitter,google |
 | CMPS | Compass Pathways is at the forefront of psychedelic research, focusing on psilocybin therapy for depression. | chat_gpt,claude,twitter,google |
-| CYBN | Cybin Inc. is working on psychedelic therapies for mental health, showing promise in early trials. | chat_gpt,claude,twitter,google |
 | GHRS | GH Research is developing a novel therapeutic approach using 5-MeO-DMT for treatment-resistant depression. | chat_gpt,twitter |
 | JNJ | Johnson & Johnson's subsidiary Janssen Pharmaceuticals developed Spravato, a ketamine-based treatment for depression, indicating indirect benefits from the psychedelic trend. | chat_gpt |
 | LLY | Eli Lilly, known for psychiatric drugs, might explore psychedelic-based treatments, benefiting indirectly from the trend. | chat_gpt |
