@@ -2,7 +2,6 @@ symbol,sources
 ABT,chat_gpt
 ATAI,"chat_gpt,claude,twitter,google"
 CMPS,"chat_gpt,claude,twitter,google"
-CYBN,"chat_gpt,claude,twitter,google"
 GHRS,"chat_gpt,twitter"
 JNJ,chat_gpt
 LLY,chat_gpt
